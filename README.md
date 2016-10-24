@@ -35,3 +35,4 @@ NIA    | User name | Repo | Build Status | What was explored | Alternative | Sco
 618051 | TOLON MARTÍN, CARLOS JAVIER
 643821 | VELA GARCÍA, JUAN
 679609 | VIÑUALES SÁNCHEZ, PABLO
+559207 | RUEDA MACÍAS, DANIEL
